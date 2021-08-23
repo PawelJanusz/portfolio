@@ -82,8 +82,20 @@ body{
     width: 480px;
     height: 142px;
     background-color: orange;
+    float: left;
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
     border-radius: 5px;
 }
+.tile4a{
+    margin: 10px;
+    width: 480px;
+    height: 142px;
+    background-color: orange;
+    border-radius: 5px;
+}
+
 #tile5{
     margin: 10px;
     width: 480px;
